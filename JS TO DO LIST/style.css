@@ -9,3 +9,50 @@ body{
     background: #571dcc;
 }
 
+.to-do-list{
+    margin: 100px auto 0;
+    background-color: rgb(234, 234, 234);
+    width: 400px;
+    border-radius: 10px;
+}
+
+.top-head{
+    display: flex;
+}
+
+.top-head h2{
+    margin: 20px;
+}
+
+.imgmain{
+    width: 50px;
+    height: 50%;
+    margin-top: 10px;
+}
+
+.search{
+    width: 300px;
+    display: flex;
+}
+
+.search input{
+    width: 100%;
+    height: 40px;
+    border-radius: 14px;
+    margin-left: 20px;
+    border: transparent;
+    text-align:center;
+}
+
+.search button{
+    width: 100px;
+    margin-left: 20px;
+    border-radius: 14px;
+    background-color: rgb(252, 37, 37);
+    color: rgb(234, 234, 234);
+    border: transparent;
+}
+
+.todo{
+    display: flex;
+}
