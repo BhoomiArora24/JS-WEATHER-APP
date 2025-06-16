@@ -31,7 +31,7 @@ body{
 }
 
 .search{
-    width: 300px;
+    width: 370px;
     display: flex;
 }
 
@@ -55,4 +55,13 @@ body{
 
 .todo{
     display: flex;
+    margin: 20px;
+}
+
+.todo ul{
+    list-style-type: none;
+}
+
+.todo li{
+    margin: 10px;
 }
